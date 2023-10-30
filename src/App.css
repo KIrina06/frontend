@@ -1,0 +1,14 @@
+img.cardImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto }
+
+div.col-md-4 {
+  width: 300px;
+  height: 700px;
+}
+
+.cardButton {
+  color: rgb(255, 255, 255);
+  background-color: rgb(0, 2, 121);
+}
